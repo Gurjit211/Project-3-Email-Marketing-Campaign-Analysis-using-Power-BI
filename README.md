@@ -27,4 +27,6 @@ This project analyzes email marketing campaign data to evaluate performance and 
 | **Click-Through Rate (CTR)** | The percentage of recipients who clicked a link within the email. |
 | **Conversion Rate** | The percentage of recipients who completed the target action. |
 
+## Dashboard Preview
+https://app.powerbi.com/groups/me/reports/6f12e77b-e761-4406-8035-f22f6a11c24e/ReportSection?experience=power-bi
 ---
